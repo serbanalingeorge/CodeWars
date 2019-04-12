@@ -1,0 +1,7 @@
+C:\Users\george_serban\source\repos\SplitStrings\SplitStrings\bin\Debug\SplitStrings.exe.config
+C:\Users\george_serban\source\repos\SplitStrings\SplitStrings\bin\Debug\SplitStrings.exe
+C:\Users\george_serban\source\repos\SplitStrings\SplitStrings\bin\Debug\SplitStrings.pdb
+C:\Users\george_serban\source\repos\SplitStrings\SplitStrings\obj\Debug\SplitStrings.csprojAssemblyReference.cache
+C:\Users\george_serban\source\repos\SplitStrings\SplitStrings\obj\Debug\SplitStrings.csproj.CoreCompileInputs.cache
+C:\Users\george_serban\source\repos\SplitStrings\SplitStrings\obj\Debug\SplitStrings.exe
+C:\Users\george_serban\source\repos\SplitStrings\SplitStrings\obj\Debug\SplitStrings.pdb
